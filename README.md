@@ -52,6 +52,8 @@ The dashboard provides visibility into:
 * Detailed risk register
 * Interactive filtering by Risk Level and Status
 
+![GRC Risk Register Dashboard](risk-register-dashboard.png)
+
 ## Tools & Technologies
 
 * Microsoft Power BI

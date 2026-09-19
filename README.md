@@ -52,7 +52,7 @@ The dashboard provides visibility into:
 * Detailed risk register
 * Interactive filtering by Risk Level and Status
 
-![GRC Risk Register Dashboard](risk reg image.png)
+![GRC Risk Register Dashboard](risk-register-dashboard.png)
 
 ## Tools & Technologies
 

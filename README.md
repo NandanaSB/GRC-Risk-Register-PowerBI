@@ -11,7 +11,7 @@ data protection, cloud security, IAM, vulnerability management, and third-party 
 
 The objective was to:
 
-* Create and maintain a structured cybersecurity risk register
+* Create and maintain a structured risk register
 * Assess risks using Likelihood × Impact
 * Assign risk levels and treatment status
 * Identify high-priority risks
@@ -74,13 +74,12 @@ The dashboard provides visibility into:
 
 ## Project Context
 
-This is a **mock/practical learning project** created to strengthen hands-on understanding of cybersecurity GRC, risk management & security reporting.
-
-The project does not represent work performed for an actual organization and uses fictional/sample data.
+This is a **mock/practical learning project**
+The project does not represent an actual organization and uses fictional/sample data.
 
 ## Skills Demonstrated
 
-* Cybersecurity Risk Assessment
+* Risk Assessment
 * Risk Register Development
 * Risk Prioritization
 * Risk Monitoring

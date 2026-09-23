@@ -1,4 +1,4 @@
-# GRC Risk Register & Power BI Dashboard
+# Risk Register & Power BI Dashboard
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ The dashboard provides visibility into:
 * Detailed risk register
 * Interactive filtering by Risk Level and Status
 
-![GRC Risk Register Dashboard](risk-register-dashboard.png)
+![Risk Register Dashboard](risk-register-dashboard.png)
 
 ## Tools & Technologies
 
